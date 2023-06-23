@@ -27,8 +27,8 @@ Project is: _complete_
 
 
 ## Room for Improvement
-- I probably need to work on navigation more
-- Need to add JavaScript no make it more usable :)
+- I probably need to work on navigation more, i.e. put the nav links to the bottom of the navbar.
+- Need to add JavaScript no make the buttons interactive.
 
 
 ## Acknowledgements
